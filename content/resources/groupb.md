@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: GroupB.zip
 uid: 60125064-5c0f-9a76-8628-e6dab477076f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

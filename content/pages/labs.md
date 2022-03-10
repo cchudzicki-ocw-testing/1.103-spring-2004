@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Labs
 uid: ceadcd63-d6dd-fe94-8798-195723bb10fa
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -44,13 +48,13 @@ Subgroup B2 Data ({{% resource_link de90c61f-9657-f687-ec4a-ebe63fb338c7 "ZIP" %
 Lab 2. Tension I - Elastic Behavior ({{% resource_link e9253657-127a-6630-f10b-61b392b1d2d9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Subgroup A1 Data ([TXT](/courses/civil-and-environmental-engineering/1-103-civil-engineering-materials-laboratory-spring-2004/labs/a1thick.txt))  
+Subgroup A1 Data ({{% resource_link ac7d7f58-6bb9-c8bf-0ab8-9f5bb04e8a55 "TXT" %}})  
   
-Subgroup A2 Data ([TXT](/courses/civil-and-environmental-engineering/1-103-civil-engineering-materials-laboratory-spring-2004/labs/a2thin.txt))  
+Subgroup A2 Data ({{% resource_link 682339ef-3871-5244-7e1d-d6041e1b59fd "TXT" %}})  
   
-Subgroup B1 Data ([TXT](/courses/civil-and-environmental-engineering/1-103-civil-engineering-materials-laboratory-spring-2004/labs/b1long.txt))  
+Subgroup B1 Data ({{% resource_link 8b1231dd-6bd0-5239-b94e-bca4f9663f10 "TXT" %}})  
   
-Subgroup B2 Data ([TXT](/courses/civil-and-environmental-engineering/1-103-civil-engineering-materials-laboratory-spring-2004/labs/b2std.txt))  
+Subgroup B2 Data ({{% resource_link 52baed5a-7fd7-f1d5-86a2-4d3be14be27f "TXT" %}})  
   
 Lab 2 Summary ({{% resource_link 148e6e48-1ee0-fc0a-9857-f2e733e59908 "PDF" %}})
 {{< tdclose >}}

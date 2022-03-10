@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: Oed20.zip
 uid: 726ca590-ed14-8498-bfc1-c6d9ef8b1a46
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

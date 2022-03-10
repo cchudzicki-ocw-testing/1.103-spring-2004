@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: Lab10_Tensile_Data.zip
 uid: 42046e18-659b-0072-28df-2c91bc969dbd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lab_10.pdf
 uid: 2713cb77-51cd-419c-0f0f-b8cbd0bbfb20
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: lab1_GroupB1.zip
 uid: c964865a-431c-d1d6-810f-9942b005dff8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

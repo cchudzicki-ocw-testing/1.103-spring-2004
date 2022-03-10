@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: Lab4GrA1New.zip
 uid: ed1b0adb-469d-505f-0836-8ef04721d53e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

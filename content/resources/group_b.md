@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: group_b.pdf
 uid: 117cb231-a40d-edea-7825-9c7e338bf39c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

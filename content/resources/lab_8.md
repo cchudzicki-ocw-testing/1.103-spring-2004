@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lab_8.pdf
 uid: 9df9f12c-2e7c-d9ec-86e8-3eec3e118df2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
